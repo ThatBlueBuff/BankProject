@@ -1,0 +1,14 @@
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\bin\Release\net8.0\BankFinal.exe
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\bin\Release\net8.0\BankFinal.deps.json
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\bin\Release\net8.0\BankFinal.runtimeconfig.json
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\bin\Release\net8.0\BankFinal.dll
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\bin\Release\net8.0\BankFinal.pdb
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\obj\Release\net8.0\BankFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\obj\Release\net8.0\BankFinal.AssemblyInfoInputs.cache
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\obj\Release\net8.0\BankFinal.AssemblyInfo.cs
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\obj\Release\net8.0\BankFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\obj\Release\net8.0\BankFinal.dll
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\obj\Release\net8.0\refint\BankFinal.dll
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\obj\Release\net8.0\BankFinal.pdb
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\obj\Release\net8.0\BankFinal.genruntimeconfig.cache
+C:\Users\Jan\Desktop\BankFinal\BankFinal\BankFinal\obj\Release\net8.0\ref\BankFinal.dll
